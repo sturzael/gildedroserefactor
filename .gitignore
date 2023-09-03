@@ -1,8 +1,10 @@
-bin
-obj
-*.sln.DotSettings.user
-.vs
-vendor
+.DS_Store
 .idea
-*.iml
-csharpcore/GildedRoseTests/ApprovalTest.ThirtyDays.received.txt
+node_modules
+typings
+app/**/*.js
+app/**/*.js.map
+test/**/*.js
+test/**/*.js.map
+coverage
+.nyc_output
